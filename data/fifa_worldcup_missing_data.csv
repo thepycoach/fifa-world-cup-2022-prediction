@@ -1,0 +1,509 @@
+home,score,away,year
+Mexico ,0–0, Soviet Union,1970
+Belgium ,3–0, El Salvador,1970
+Soviet Union ,4–1, Belgium,1970
+Mexico ,4–0, El Salvador,1970
+Soviet Union ,2–0, El Salvador,1970
+Mexico ,1–0, Belgium,1970
+Uruguay ,2–0, Israel,1970
+Italy ,1–0, Sweden,1970
+Uruguay ,0–0, Italy,1970
+Sweden ,1–1, Israel,1970
+Uruguay ,0–1, Sweden,1970
+Israel ,0–0, Italy,1970
+Romania ,0–1, England,1970
+Czechoslovakia ,1–4, Brazil,1970
+Romania ,2–1, Czechoslovakia,1970
+England ,0–1, Brazil,1970
+Romania ,2–3, Brazil,1970
+England ,1–0, Czechoslovakia,1970
+Peru ,3–2, Bulgaria,1970
+West Germany ,2–1, Morocco,1970
+Peru ,3–0, Morocco,1970
+West Germany ,5–2, Bulgaria,1970
+West Germany ,3–1, Peru,1970
+Bulgaria ,1–1, Morocco,1970
+West Germany ,1–0, Chile,1974
+East Germany ,2–0, Australia,1974
+Australia ,0–3, West Germany,1974
+Chile ,1–1, East Germany,1974
+Australia ,0–0, Chile,1974
+East Germany ,1–0, West Germany,1974
+Brazil ,0–0, Yugoslavia,1974
+Zaire ,0–2, Scotland,1974
+Scotland ,0–0, Brazil,1974
+Yugoslavia ,9–0, Zaire,1974
+Scotland ,1–1, Yugoslavia,1974
+Zaire ,0–3, Brazil,1974
+Uruguay ,0–2, Netherlands,1974
+Sweden ,0–0, Bulgaria,1974
+Bulgaria ,1–1, Uruguay,1974
+Netherlands ,0–0, Sweden,1974
+Bulgaria ,1–4, Netherlands,1974
+Sweden ,3–0, Uruguay,1974
+Italy ,3–1, Haiti,1974
+Poland ,3–2, Argentina,1974
+Argentina ,1–1, Italy,1974
+Haiti ,0–7, Poland,1974
+Argentina ,4–1, Haiti,1974
+Poland ,2–1, Italy,1974
+Netherlands ,4–0, Argentina,1974
+Brazil ,1–0, East Germany,1974
+Argentina ,1–2, Brazil,1974
+East Germany ,0–2, Netherlands,1974
+Argentina ,1–1, East Germany,1974
+Netherlands ,2–0, Brazil,1974
+Yugoslavia ,0–2, West Germany,1974
+Sweden ,0–1, Poland,1974
+Poland ,2–1, Yugoslavia,1974
+West Germany ,4–2, Sweden,1974
+Poland ,0–1, West Germany,1974
+Sweden ,2–1, Yugoslavia,1974
+Italy ,2–1, France,1978
+Argentina ,2–1, Hungary,1978
+Italy ,3–1, Hungary,1978
+Argentina ,2–1, France,1978
+France ,3–1, Hungary,1978
+Argentina ,0–1, Italy,1978
+West Germany ,0–0, Poland,1978
+Tunisia ,3–1, Mexico,1978
+West Germany ,6–0, Mexico,1978
+Poland ,1–0, Tunisia,1978
+West Germany ,0–0, Tunisia,1978
+Poland ,3–1, Mexico,1978
+Austria ,2–1, Spain,1978
+Brazil ,1–1, Sweden,1978
+Austria ,1–0, Sweden,1978
+Brazil ,0–0, Spain,1978
+Spain ,1–0, Sweden,1978
+Brazil ,1–0, Austria,1978
+Peru ,3–1, Scotland,1978
+Netherlands ,3–0, Iran,1978
+Scotland ,1–1, Iran,1978
+Netherlands ,0–0, Peru,1978
+Peru ,4–1, Iran,1978
+Scotland ,3–2, Netherlands,1978
+Austria ,1–5, Netherlands,1978
+Italy ,0–0, West Germany,1978
+Netherlands ,2–2, West Germany,1978
+Italy ,1–0, Austria,1978
+Austria ,3–2, West Germany,1978
+Italy ,1–2, Netherlands,1978
+Peru ,0–3, Brazil,1978
+Argentina ,2–0, Poland,1978
+Peru ,0–1, Poland,1978
+Argentina ,0–0, Brazil,1978
+Poland ,1–3, Brazil,1978
+Argentina ,6–0, Peru,1978
+Italy ,0–0, Poland,1982
+Peru ,0–0, Cameroon,1982
+Italy ,1–1, Peru,1982
+Poland ,0–0, Cameroon,1982
+Poland ,5–1, Peru,1982
+Italy ,1–1, Cameroon,1982
+West Germany ,1–2, Algeria,1982
+Chile ,0–1, Austria,1982
+West Germany ,4–1, Chile,1982
+Algeria ,0–2, Austria,1982
+Algeria ,3–2, Chile,1982
+West Germany ,1–0, Austria,1982
+Argentina ,0–1, Belgium,1982
+Hungary ,10–1, El Salvador,1982
+Argentina ,4–1, Hungary,1982
+Belgium ,1–0, El Salvador,1982
+Belgium ,1–1, Hungary,1982
+Argentina ,2–0, El Salvador,1982
+England ,3–1, France,1982
+Czechoslovakia ,1–1, Kuwait,1982
+England ,2–0, Czechoslovakia,1982
+France ,4–1, Kuwait,1982
+France ,1–1, Czechoslovakia,1982
+England ,1–0, Kuwait,1982
+Spain ,1–1, Honduras,1982
+Yugoslavia ,0–0, Northern Ireland,1982
+Spain ,2–1, Yugoslavia,1982
+Honduras ,1–1, Northern Ireland,1982
+Honduras ,0–1, Yugoslavia,1982
+Spain ,0–1, Northern Ireland,1982
+Brazil ,2–1, Soviet Union,1982
+Scotland ,5–2, New Zealand,1982
+Brazil ,4–1, Scotland,1982
+Soviet Union ,3–0, New Zealand,1982
+Soviet Union ,2–2, Scotland,1982
+Brazil ,4–0, New Zealand,1982
+Poland ,3–0, Belgium,1982
+Belgium ,0–1, Soviet Union,1982
+Soviet Union ,0–0, Poland,1982
+West Germany ,0–0, England,1982
+West Germany ,2–1, Spain,1982
+Spain ,0–0, England,1982
+Italy ,2–1, Argentina,1982
+Argentina ,1–3, Brazil,1982
+Italy ,3–2, Brazil,1982
+Austria ,0–1, France,1982
+Austria ,2–2, Northern Ireland,1982
+France ,4–1, Northern Ireland,1982
+Bulgaria ,1–1, Italy,1986
+Argentina ,3–1, South Korea,1986
+Italy ,1–1, Argentina,1986
+South Korea ,1–1, Bulgaria,1986
+South Korea ,2–3, Italy,1986
+Argentina ,2–0, Bulgaria,1986
+Belgium ,1–2, Mexico,1986
+Paraguay ,1–0, Iraq,1986
+Mexico ,1–1, Paraguay,1986
+Iraq ,1–2, Belgium,1986
+Paraguay ,2–2, Belgium,1986
+Iraq ,0–1, Mexico,1986
+Canada ,0–1, France,1986
+Soviet Union ,6–0, Hungary,1986
+France ,1–1, Soviet Union,1986
+Hungary ,2–0, Canada,1986
+Hungary ,0–3, France,1986
+Soviet Union ,2–0, Canada,1986
+Spain ,0–1, Brazil,1986
+Algeria ,1–1, Northern Ireland,1986
+Brazil ,1–0, Algeria,1986
+Northern Ireland ,1–2, Spain,1986
+Northern Ireland ,0–3, Brazil,1986
+Algeria ,0–3, Spain,1986
+Uruguay ,1–1, West Germany,1986
+Scotland ,0–1, Denmark,1986
+West Germany ,2–1, Scotland,1986
+Denmark ,6–1, Uruguay,1986
+Denmark ,2–0, West Germany,1986
+Scotland ,0–0, Uruguay,1986
+Morocco ,0–0, Poland,1986
+Portugal ,1–0, England,1986
+England ,0–0, Morocco,1986
+Poland ,1–0, Portugal,1986
+England ,3–0, Poland,1986
+Portugal ,1–3, Morocco,1986
+Italy ,1–0, Austria,1990
+United States ,1–5, Czechoslovakia,1990
+Italy ,1–0, United States,1990
+Austria ,0–1, Czechoslovakia,1990
+Italy ,2–0, Czechoslovakia,1990
+Austria ,2–1, United States,1990
+Argentina ,0–1, Cameroon,1990
+Soviet Union ,0–2, Romania,1990
+Argentina ,2–0, Soviet Union,1990
+Cameroon ,2–1, Romania,1990
+Argentina ,1–1, Romania,1990
+Cameroon ,0–4, Soviet Union,1990
+Brazil ,2–1, Sweden,1990
+Costa Rica ,1–0, Scotland,1990
+Brazil ,1–0, Costa Rica,1990
+Sweden ,1–2, Scotland,1990
+Brazil ,1–0, Scotland,1990
+Sweden ,1–2, Costa Rica,1990
+United Arab Emirates ,0–2, Colombia,1990
+West Germany ,4–1, Yugoslavia,1990
+Yugoslavia ,1–0, Colombia,1990
+West Germany ,5–1, United Arab Emirates,1990
+West Germany ,1–1, Colombia,1990
+Yugoslavia ,4–1, United Arab Emirates,1990
+Belgium ,2–0, South Korea,1990
+Uruguay ,0–0, Spain,1990
+Belgium ,3–1, Uruguay,1990
+South Korea ,1–3, Spain,1990
+Belgium ,1–2, Spain,1990
+South Korea ,0–1, Uruguay,1990
+England ,1–1, Republic of Ireland,1990
+Netherlands ,1–1, Egypt,1990
+England ,0–0, Netherlands,1990
+Republic of Ireland ,0–0, Egypt,1990
+England ,1–0, Egypt,1990
+Republic of Ireland ,1–1, Netherlands,1990
+United States ,1–1, Switzerland,1994
+Colombia ,1–3, Romania,1994
+Romania ,1–4, Switzerland,1994
+United States ,2–1, Colombia,1994
+Switzerland ,0–2, Colombia,1994
+United States ,0–1, Romania,1994
+Cameroon ,2–2, Sweden,1994
+Brazil ,2–0, Russia,1994
+Brazil ,3–0, Cameroon,1994
+Sweden ,3–1, Russia,1994
+Russia ,6–1, Cameroon,1994
+Brazil ,1–1, Sweden,1994
+Germany ,1–0, Bolivia,1994
+Spain ,2–2, South Korea,1994
+Germany ,1–1, Spain,1994
+South Korea ,0–0, Bolivia,1994
+Bolivia ,1–3, Spain,1994
+Germany ,3–2, South Korea,1994
+Argentina ,4–0, Greece,1994
+Nigeria ,3–0, Bulgaria,1994
+Argentina ,2–1, Nigeria,1994
+Bulgaria ,4–0, Greece,1994
+Argentina ,0–2, Bulgaria,1994
+Greece ,0–2, Nigeria,1994
+Italy ,0–1, Republic of Ireland,1994
+Norway ,1–0, Mexico,1994
+Italy ,1–0, Norway,1994
+Mexico ,2–1, Republic of Ireland,1994
+Italy ,1–1, Mexico,1994
+Republic of Ireland ,0–0, Norway,1994
+Belgium ,1–0, Morocco,1994
+Netherlands ,2–1, Saudi Arabia,1994
+Saudi Arabia ,2–1, Morocco,1994
+Belgium ,1–0, Netherlands,1994
+Belgium ,0–1, Saudi Arabia,1994
+Morocco ,1–2, Netherlands,1994
+Brazil ,2–1, Scotland,1998
+Morocco ,2–2, Norway,1998
+Scotland ,1–1, Norway,1998
+Brazil ,3–0, Morocco,1998
+Brazil ,1–2, Norway,1998
+Scotland ,0–3, Morocco,1998
+Italy ,2–2, Chile,1998
+Cameroon ,1–1, Austria,1998
+Chile ,1–1, Austria,1998
+Italy ,3–0, Cameroon,1998
+Italy ,2–1, Austria,1998
+Chile ,1–1, Cameroon,1998
+Saudi Arabia ,0–1, Denmark,1998
+France ,3–0, South Africa,1998
+South Africa ,1–1, Denmark,1998
+France ,4–0, Saudi Arabia,1998
+France ,2–1, Denmark,1998
+South Africa ,2–2, Saudi Arabia,1998
+Paraguay ,0–0, Bulgaria,1998
+Spain ,2–3, Nigeria,1998
+Nigeria ,1–0, Bulgaria,1998
+Spain ,0–0, Paraguay,1998
+Nigeria ,1–3, Paraguay,1998
+Spain ,6–1, Bulgaria,1998
+South Korea ,1–3, Mexico,1998
+Netherlands ,0–0, Belgium,1998
+Belgium ,2–2, Mexico,1998
+Netherlands ,5–0, South Korea,1998
+Netherlands ,2–2, Mexico,1998
+Belgium ,1–1, South Korea,1998
+FR Yugoslavia ,1–0, Iran,1998
+Germany ,2–0, United States,1998
+Germany ,2–2, FR Yugoslavia,1998
+United States ,1–2, Iran,1998
+United States ,0–1, FR Yugoslavia,1998
+Germany ,2–0, Iran,1998
+England ,2–0, Tunisia,1998
+Romania ,1–0, Colombia,1998
+Colombia ,1–0, Tunisia,1998
+Romania ,2–1, England,1998
+Colombia ,0–2, England,1998
+Romania ,1–1, Tunisia,1998
+Argentina ,1–0, Japan,1998
+Jamaica ,1–3, Croatia,1998
+Japan ,0–1, Croatia,1998
+Argentina ,5–0, Jamaica,1998
+Argentina ,1–0, Croatia,1998
+Japan ,1–2, Jamaica,1998
+France ,0–1, Senegal,2002
+Uruguay ,1–2, Denmark,2002
+Denmark ,1–1, Senegal,2002
+France ,0–0, Uruguay,2002
+Denmark ,2–0, France,2002
+Senegal ,3–3, Uruguay,2002
+Paraguay ,2–2, South Africa,2002
+Spain ,3–1, Slovenia,2002
+Spain ,3–1, Paraguay,2002
+South Africa ,1–0, Slovenia,2002
+South Africa ,2–3, Spain,2002
+Slovenia ,1–3, Paraguay,2002
+Brazil ,2–1, Turkey,2002
+China ,0–2, Costa Rica,2002
+Brazil ,4–0, China,2002
+Costa Rica ,1–1, Turkey,2002
+Costa Rica ,2–5, Brazil,2002
+Turkey ,3–0, China,2002
+South Korea ,2–0, Poland,2002
+United States ,3–2, Portugal,2002
+South Korea ,1–1, United States,2002
+Portugal ,4–0, Poland,2002
+Portugal ,0–1, South Korea,2002
+Poland ,3–1, United States,2002
+Republic of Ireland ,1–1, Cameroon,2002
+Germany ,8–0, Saudi Arabia,2002
+Germany ,1–1, Republic of Ireland,2002
+Cameroon ,1–0, Saudi Arabia,2002
+Cameroon ,0–2, Germany,2002
+Saudi Arabia ,0–3, Republic of Ireland,2002
+Argentina ,1–0, Nigeria,2002
+England ,1–1, Sweden,2002
+Sweden ,2–1, Nigeria,2002
+Argentina ,0–1, England,2002
+Sweden ,1–1, Argentina,2002
+Nigeria ,0–0, England,2002
+Croatia ,0–1, Mexico,2002
+Italy ,2–0, Ecuador,2002
+Italy ,1–2, Croatia,2002
+Mexico ,2–1, Ecuador,2002
+Mexico ,1–1, Italy,2002
+Ecuador ,1–0, Croatia,2002
+Japan ,2–2, Belgium,2002
+Russia ,2–0, Tunisia,2002
+Japan ,1–0, Russia,2002
+Tunisia ,1–1, Belgium,2002
+Tunisia ,0–2, Japan,2002
+Belgium ,3–2, Russia,2002
+Germany ,4–2, Costa Rica,2006
+Poland ,0–2, Ecuador,2006
+Germany ,1–0, Poland,2006
+Ecuador ,3–0, Costa Rica,2006
+Ecuador ,0–3, Germany,2006
+Costa Rica ,1–2, Poland,2006
+England ,1–0, Paraguay,2006
+Trinidad and Tobago ,0–0, Sweden,2006
+England ,2–0, Trinidad and Tobago,2006
+Sweden ,1–0, Paraguay,2006
+Sweden ,2–2, England,2006
+Paraguay ,2–0, Trinidad and Tobago,2006
+Argentina ,2–1, Ivory Coast,2006
+Serbia and Montenegro ,0–1, Netherlands,2006
+Argentina ,6–0, Serbia and Montenegro,2006
+Netherlands ,2–1, Ivory Coast,2006
+Netherlands ,0–0, Argentina,2006
+Ivory Coast ,3–2, Serbia and Montenegro,2006
+Mexico ,3–1, Iran,2006
+Angola ,0–1, Portugal,2006
+Mexico ,0–0, Angola,2006
+Portugal ,2–0, Iran,2006
+Portugal ,2–1, Mexico,2006
+Iran ,1–1, Angola,2006
+United States ,0–3, Czech Republic,2006
+Italy ,2–0, Ghana,2006
+Czech Republic ,0–2, Ghana,2006
+Italy ,1–1, United States,2006
+Czech Republic ,0–2, Italy,2006
+Ghana ,2–1, United States,2006
+Australia ,3–1, Japan,2006
+Brazil ,1–0, Croatia,2006
+Japan ,0–0, Croatia,2006
+Brazil ,2–0, Australia,2006
+Japan ,1–4, Brazil,2006
+Croatia ,2–2, Australia,2006
+South Korea ,2–1, Togo,2006
+France ,0–0, Switzerland,2006
+France ,1–1, South Korea,2006
+Togo ,0–2, Switzerland,2006
+Togo ,0–2, France,2006
+Switzerland ,2–0, South Korea,2006
+Spain ,4–0, Ukraine,2006
+Tunisia ,2–2, Saudi Arabia,2006
+Saudi Arabia ,0–4, Ukraine,2006
+Spain ,3–1, Tunisia,2006
+Saudi Arabia ,0–1, Spain,2006
+Ukraine ,1–0, Tunisia,2006
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+,,,2010
+South Africa ,1–1, Mexico,2010
+Uruguay ,0–0, France,2010
+South Africa ,0–3, Uruguay,2010
+France ,0–2, Mexico,2010
+Mexico ,0–1, Uruguay,2010
+France ,1–2, South Africa,2010
+South Korea ,2–0, Greece,2010
+Argentina ,1–0, Nigeria,2010
+Argentina ,4–1, South Korea,2010
+Greece ,2–1, Nigeria,2010
+Nigeria ,2–2, South Korea,2010
+Greece ,0–2, Argentina,2010
+England ,1–1, United States,2010
+Algeria ,0–1, Slovenia,2010
+Slovenia ,2–2, United States,2010
+England ,0–0, Algeria,2010
+Slovenia ,0–1, England,2010
+United States ,1–0, Algeria,2010
+Serbia ,0–1, Ghana,2010
+Germany ,4–0, Australia,2010
+Germany ,0–1, Serbia,2010
+Ghana ,1–1, Australia,2010
+Ghana ,0–1, Germany,2010
+Australia ,2–1, Serbia,2010
+Netherlands ,2–0, Denmark,2010
+Japan ,1–0, Cameroon,2010
+Netherlands ,1–0, Japan,2010
+Cameroon ,1–2, Denmark,2010
+Denmark ,1–3, Japan,2010
+Cameroon ,1–2, Netherlands,2010
+Italy ,1–1, Paraguay,2010
+New Zealand ,1–1, Slovakia,2010
+Slovakia ,0–2, Paraguay,2010
+Italy ,1–1, New Zealand,2010
+Slovakia ,3–2, Italy,2010
+Paraguay ,0–0, New Zealand,2010
+Ivory Coast ,0–0, Portugal,2010
+Brazil ,2–1, North Korea,2010
+Brazil ,3–1, Ivory Coast,2010
+Portugal ,7–0, North Korea,2010
+Portugal ,0–0, Brazil,2010
+North Korea ,0–3, Ivory Coast,2010
+Honduras ,0–1, Chile,2010
+Spain ,0–1, Switzerland,2010
+Chile ,1–0, Switzerland,2010
+Spain ,2–0, Honduras,2010
+Chile ,1–2, Spain,2010
+Switzerland ,0–0, Honduras,2010
