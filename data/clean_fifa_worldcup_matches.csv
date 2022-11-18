@@ -1,0 +1,901 @@
+HomeTeam,AwayTeam,Year,HomeGoals,AwayGoals,TotalGoals
+France,Mexico,1930,4,1,5
+Uruguay,Argentina,1930,4,2,6
+Uruguay,Yugoslavia,1930,6,1,7
+Argentina,United States,1930,6,1,7
+Paraguay,Belgium,1930,1,0,1
+United States,Paraguay,1930,3,0,3
+Uruguay,Romania,1930,4,0,4
+Uruguay,Peru,1930,1,0,1
+Romania,Peru,1930,3,1,4
+United States,Belgium,1930,3,0,3
+Yugoslavia,Bolivia,1930,4,0,4
+Yugoslavia,Brazil,1930,2,1,3
+Argentina,Chile,1930,3,1,4
+Argentina,Mexico,1930,6,3,9
+Chile,France,1930,1,0,1
+Chile,Mexico,1930,3,0,3
+Argentina,France,1930,1,0,1
+Brazil,Bolivia,1930,4,0,4
+Germany,Sweden,1934,2,1,3
+Italy,Czechoslovakia,1934,2,1,3
+Germany,Austria,1934,3,2,5
+Czechoslovakia,Germany,1934,3,1,4
+Italy,Austria,1934,1,0,1
+Italy,Spain,1934,1,0,1
+Czechoslovakia,Switzerland,1934,3,2,5
+Italy,Spain,1934,1,1,2
+Italy,United States,1934,7,1,8
+Germany,Belgium,1934,5,2,7
+Austria,France,1934,3,2,5
+Sweden,Argentina,1934,3,2,5
+Czechoslovakia,Romania,1934,2,1,3
+Switzerland,Netherlands,1934,3,2,5
+Hungary,Egypt,1934,4,2,6
+Spain,Brazil,1934,3,1,4
+Austria,Hungary,1934,2,1,3
+Italy,France,1938,3,1,4
+Brazil,Czechoslovakia,1938,1,1,2
+Brazil,Czechoslovakia,1938,2,1,3
+Italy,Hungary,1938,4,2,6
+Italy,Brazil,1938,2,1,3
+Brazil,Sweden,1938,4,2,6
+Sweden,Cuba,1938,8,0,8
+Hungary,Sweden,1938,5,1,6
+Hungary,Switzerland,1938,2,0,2
+Switzerland,Germany,1938,4,2,6
+Czechoslovakia,Netherlands,1938,3,0,3
+Brazil,Poland,1938,6,5,11
+Italy,Norway,1938,2,1,3
+France,Belgium,1938,3,1,4
+Cuba,Romania,1938,3,3,6
+Hungary,Dutch East Indies,1938,6,0,6
+Switzerland,Germany,1938,1,1,2
+Cuba,Romania,1938,2,1,3
+Sweden,Italy,1950,3,2,5
+Sweden,Paraguay,1950,2,2,4
+Italy,Paraguay,1950,2,0,2
+Uruguay,Bolivia,1950,8,0,8
+Uruguay,Spain,1950,2,2,4
+Uruguay,Brazil,1950,2,1,3
+Brazil,Spain,1950,6,1,7
+Uruguay,Sweden,1950,3,2,5
+Sweden,Spain,1950,3,1,4
+Brazil,Sweden,1950,7,1,8
+Chile,United States,1950,5,2,7
+Spain,Chile,1950,2,0,2
+United States,England,1950,1,0,1
+Spain,United States,1950,3,1,4
+England,Chile,1950,2,0,2
+Switzerland,Mexico,1950,2,1,3
+Brazil,Yugoslavia,1950,2,0,2
+Yugoslavia,Mexico,1950,4,1,5
+Brazil,Switzerland,1950,2,2,4
+Yugoslavia,Switzerland,1950,3,0,3
+Brazil,Mexico,1950,4,0,4
+Spain,England,1950,1,0,1
+Uruguay,England,1954,4,2,6
+Italy,Belgium,1954,4,1,5
+Switzerland,Italy,1954,4,1,5
+Austria,Switzerland,1954,7,5,12
+West Germany,Yugoslavia,1954,2,0,2
+England,Belgium,1954,4,4,8
+West Germany,Austria,1954,6,1,7
+Hungary,Uruguay,1954,4,2,6
+Austria,Uruguay,1954,3,1,4
+West Germany,Hungary,1954,3,2,5
+Hungary,Brazil,1954,4,2,6
+Switzerland,Italy,1954,2,1,3
+England,Switzerland,1954,2,0,2
+Uruguay,Scotland,1954,7,0,7
+Brazil,Mexico,1954,5,0,5
+Yugoslavia,France,1954,1,0,1
+Brazil,Yugoslavia,1954,1,1,2
+West Germany,Turkey,1954,4,1,5
+Hungary,South Korea,1954,9,0,9
+France,Mexico,1954,3,2,5
+Turkey,South Korea,1954,7,0,7
+West Germany,Turkey,1954,7,2,9
+Austria,Czechoslovakia,1954,5,0,5
+Uruguay,Czechoslovakia,1954,2,0,2
+Austria,Scotland,1954,1,0,1
+Hungary,West Germany,1954,8,3,11
+England,Austria,1958,2,2,4
+Wales,Hungary,1958,2,1,3
+Brazil,Austria,1958,3,0,3
+Soviet Union,England,1958,2,2,4
+Brazil,England,1958,0,0,0
+Soviet Union,Austria,1958,2,0,2
+Brazil,Soviet Union,1958,2,0,2
+Sweden,West Germany,1958,3,1,4
+Brazil,Wales,1958,1,0,1
+France,Northern Ireland,1958,4,0,4
+Sweden,Soviet Union,1958,2,0,2
+West Germany,Yugoslavia,1958,1,0,1
+Brazil,France,1958,5,2,7
+Hungary,Mexico,1958,4,0,4
+France,West Germany,1958,6,3,9
+Soviet Union,England,1958,1,0,1
+Sweden,Wales,1958,0,0,0
+Brazil,Sweden,1958,5,2,7
+Mexico,Wales,1958,1,1,2
+Argentina,West Germany,1958,1,3,4
+Northern Ireland,Czechoslovakia,1958,1,0,1
+West Germany,Czechoslovakia,1958,2,2,4
+Argentina,Northern Ireland,1958,3,1,4
+West Germany,Northern Ireland,1958,2,2,4
+Czechoslovakia,Argentina,1958,6,1,7
+Northern Ireland,Czechoslovakia,1958,2,1,3
+Sweden,Hungary,1958,2,1,3
+Yugoslavia,Scotland,1958,1,1,2
+Yugoslavia,France,1958,3,2,5
+Paraguay,Scotland,1958,3,2,5
+France,Scotland,1958,2,1,3
+Paraguay,Yugoslavia,1958,3,3,6
+Sweden,Mexico,1958,3,0,3
+Hungary,Wales,1958,1,1,2
+France,Paraguay,1958,7,3,10
+Mexico,Czechoslovakia,1962,3,1,4
+Argentina,Bulgaria,1962,1,0,1
+Hungary,England,1962,2,1,3
+England,Argentina,1962,3,1,4
+Hungary,Bulgaria,1962,6,1,7
+Hungary,Argentina,1962,0,0,0
+England,Bulgaria,1962,0,0,0
+Yugoslavia,West Germany,1962,1,0,1
+Czechoslovakia,Hungary,1962,1,0,1
+Brazil,England,1962,3,1,4
+Czechoslovakia,Yugoslavia,1962,3,1,4
+Brazil,Chile,1962,4,2,6
+Chile,Yugoslavia,1962,1,0,1
+Brazil,Spain,1962,2,1,3
+Chile,Soviet Union,1962,2,1,3
+Brazil,Czechoslovakia,1962,3,1,4
+Spain,Mexico,1962,1,0,1
+Czechoslovakia,Spain,1962,1,0,1
+Brazil,Czechoslovakia,1962,0,0,0
+Uruguay,Colombia,1962,2,1,3
+Soviet Union,Yugoslavia,1962,2,0,2
+Yugoslavia,Uruguay,1962,3,1,4
+Soviet Union,Uruguay,1962,2,1,3
+Yugoslavia,Colombia,1962,5,0,5
+Soviet Union,Colombia,1962,4,4,8
+West Germany,Italy,1962,0,0,0
+Chile,Italy,1962,2,0,2
+West Germany,Switzerland,1962,2,1,3
+West Germany,Chile,1962,2,0,2
+Italy,Switzerland,1962,3,0,3
+Brazil,Mexico,1962,2,0,2
+Chile,Switzerland,1962,3,1,4
+Soviet Union,Chile,1966,2,1,3
+Soviet Union,North Korea,1966,3,0,3
+Italy,Chile,1966,2,0,2
+Chile,North Korea,1966,1,1,2
+Soviet Union,Italy,1966,1,0,1
+North Korea,Italy,1966,1,0,1
+England,Argentina,1966,1,0,1
+England,West Germany,1966,4,2,6
+Soviet Union,Hungary,1966,2,1,3
+Portugal,North Korea,1966,5,3,8
+West Germany,Soviet Union,1966,2,1,3
+England,Portugal,1966,2,1,3
+Portugal,Soviet Union,1966,2,1,3
+Hungary,Bulgaria,1966,3,1,4
+West Germany,Uruguay,1966,4,0,4
+Portugal,Brazil,1966,3,1,4
+Spain,Switzerland,1966,2,1,3
+Hungary,Brazil,1966,3,1,4
+France,Mexico,1966,1,1,2
+Uruguay,France,1966,2,1,3
+England,Mexico,1966,2,0,2
+Mexico,Uruguay,1966,0,0,0
+England,France,1966,2,0,2
+West Germany,Switzerland,1966,5,0,5
+England,Uruguay,1966,0,0,0
+Portugal,Bulgaria,1966,3,0,3
+Argentina,West Germany,1966,0,0,0
+Argentina,Switzerland,1966,2,0,2
+West Germany,Spain,1966,2,1,3
+Brazil,Bulgaria,1966,2,0,2
+Portugal,Hungary,1966,3,1,4
+Argentina,Spain,1966,2,1,3
+Uruguay,Sweden,1970,0,1,1
+Israel,Italy,1970,0,0,0
+Romania,England,1970,0,1,1
+Czechoslovakia,Brazil,1970,1,4,5
+Romania,Czechoslovakia,1970,2,1,3
+Romania,Brazil,1970,2,3,5
+Peru,Morocco,1970,3,0,3
+Peru,Bulgaria,1970,3,2,5
+West Germany,Morocco,1970,2,1,3
+West Germany,Bulgaria,1970,5,2,7
+West Germany,Peru,1970,3,1,4
+Bulgaria,Morocco,1970,1,1,2
+Sweden,Israel,1970,1,1,2
+England,Czechoslovakia,1970,1,0,1
+Uruguay,Italy,1970,0,0,0
+England,Brazil,1970,0,1,1
+Uruguay,Israel,1970,2,0,2
+Italy,Sweden,1970,1,0,1
+Mexico,Soviet Union,1970,0,0,0
+Soviet Union,Uruguay,1970,0,1,1
+Brazil,Peru,1970,4,2,6
+West Germany,England,1970,3,2,5
+Uruguay,Brazil,1970,1,3,4
+Italy,West Germany,1970,4,3,7
+Italy,Mexico,1970,4,1,5
+Brazil,Italy,1970,4,1,5
+Belgium,El Salvador,1970,3,0,3
+Soviet Union,Belgium,1970,4,1,5
+Mexico,El Salvador,1970,4,0,4
+Mexico,Belgium,1970,1,0,1
+Uruguay,West Germany,1970,0,1,1
+Soviet Union,El Salvador,1970,2,0,2
+Bulgaria,Netherlands,1974,1,4,5
+Sweden,Uruguay,1974,3,0,3
+Italy,Haiti,1974,3,1,4
+Poland,Argentina,1974,3,2,5
+Argentina,Haiti,1974,4,1,5
+Poland,Italy,1974,2,1,3
+Netherlands,Argentina,1974,4,0,4
+Brazil,East Germany,1974,1,0,1
+Netherlands,Sweden,1974,0,0,0
+Argentina,Brazil,1974,1,2,3
+Haiti,Poland,1974,0,7,7
+Bulgaria,Uruguay,1974,1,1,2
+Brazil,Yugoslavia,1974,0,0,0
+Uruguay,Netherlands,1974,0,2,2
+Zaire,Brazil,1974,0,3,3
+Scotland,Yugoslavia,1974,1,1,2
+Yugoslavia,Zaire,1974,9,0,9
+Scotland,Brazil,1974,0,0,0
+Zaire,Scotland,1974,0,2,2
+East Germany,West Germany,1974,1,0,1
+Australia,Chile,1974,0,0,0
+Chile,East Germany,1974,1,1,2
+Australia,West Germany,1974,0,3,3
+East Germany,Australia,1974,2,0,2
+West Germany,Chile,1974,1,0,1
+East Germany,Netherlands,1974,0,2,2
+Sweden,Bulgaria,1974,0,0,0
+Argentina,East Germany,1974,1,1,2
+Argentina,Italy,1974,1,1,2
+Yugoslavia,West Germany,1974,0,2,2
+Sweden,Poland,1974,0,1,1
+Poland,Yugoslavia,1974,2,1,3
+West Germany,Sweden,1974,4,2,6
+Poland,West Germany,1974,0,1,1
+Sweden,Yugoslavia,1974,2,1,3
+Brazil,Poland,1974,0,1,1
+Netherlands,West Germany,1974,1,2,3
+Netherlands,Brazil,1974,2,0,2
+Peru,Iran,1978,4,1,5
+Scotland,Netherlands,1978,3,2,5
+Austria,Netherlands,1978,1,5,6
+Italy,West Germany,1978,0,0,0
+Netherlands,West Germany,1978,2,2,4
+Italy,Austria,1978,1,0,1
+Italy,Netherlands,1978,1,2,3
+Poland,Brazil,1978,1,3,4
+Argentina,Poland,1978,2,0,2
+Peru,Poland,1978,0,1,1
+Argentina,Brazil,1978,0,0,0
+Netherlands,Peru,1978,0,0,0
+Argentina,Peru,1978,6,0,6
+Argentina,Netherlands,1978,3,1,4
+Brazil,Italy,1978,2,1,3
+Peru,Brazil,1978,0,3,3
+Scotland,Iran,1978,1,1,2
+Austria,West Germany,1978,3,2,5
+Peru,Scotland,1978,3,1,4
+Italy,France,1978,2,1,3
+Argentina,Hungary,1978,2,1,3
+Italy,Hungary,1978,3,1,4
+Argentina,France,1978,2,1,3
+Netherlands,Iran,1978,3,0,3
+France,Hungary,1978,3,1,4
+West Germany,Poland,1978,0,0,0
+Tunisia,Mexico,1978,3,1,4
+West Germany,Mexico,1978,6,0,6
+Argentina,Italy,1978,0,1,1
+West Germany,Tunisia,1978,0,0,0
+Brazil,Austria,1978,1,0,1
+Spain,Sweden,1978,1,0,1
+Brazil,Spain,1978,0,0,0
+Austria,Sweden,1978,1,0,1
+Poland,Tunisia,1978,1,0,1
+Austria,Spain,1978,2,1,3
+Brazil,Sweden,1978,1,1,2
+Poland,Mexico,1978,3,1,4
+Spain,Northern Ireland,1982,0,1,1
+Honduras,Yugoslavia,1982,0,1,1
+Honduras,Northern Ireland,1982,1,1,2
+Soviet Union,Scotland,1982,2,2,4
+Spain,Yugoslavia,1982,2,1,3
+Scotland,New Zealand,1982,5,2,7
+Brazil,Scotland,1982,4,1,5
+Soviet Union,New Zealand,1982,3,0,3
+Brazil,Soviet Union,1982,2,1,3
+Brazil,New Zealand,1982,4,0,4
+Spain,England,1982,0,0,0
+Belgium,Soviet Union,1982,0,1,1
+Soviet Union,Poland,1982,0,0,0
+West Germany,England,1982,0,0,0
+West Germany,Spain,1982,2,1,3
+Italy,Argentina,1982,2,1,3
+Argentina,Brazil,1982,1,3,4
+Italy,Brazil,1982,3,2,5
+Austria,France,1982,0,1,1
+Yugoslavia,Northern Ireland,1982,0,0,0
+Poland,Belgium,1982,3,0,3
+Spain,Honduras,1982,1,1,2
+Poland,Peru,1982,5,1,6
+France,Czechoslovakia,1982,1,1,2
+Italy,Poland,1982,0,0,0
+Peru,Cameroon,1982,0,0,0
+Italy,Peru,1982,1,1,2
+Poland,Cameroon,1982,0,0,0
+Italy,Cameroon,1982,1,1,2
+Austria,Northern Ireland,1982,2,2,4
+West Germany,Chile,1982,4,1,5
+Algeria,Austria,1982,0,2,2
+Algeria,Chile,1982,3,2,5
+England,Kuwait,1982,1,0,1
+West Germany,Austria,1982,1,0,1
+Hungary,El Salvador,1982,10,1,11
+Argentina,Hungary,1982,4,1,5
+Belgium,El Salvador,1982,1,0,1
+Belgium,Hungary,1982,1,1,2
+Argentina,El Salvador,1982,2,0,2
+England,France,1982,3,1,4
+Czechoslovakia,Kuwait,1982,1,1,2
+England,Czechoslovakia,1982,2,0,2
+France,Kuwait,1982,4,1,5
+Argentina,Belgium,1982,0,1,1
+France,Northern Ireland,1982,4,1,5
+Chile,Austria,1982,0,1,1
+West Germany,Algeria,1982,1,2,3
+Poland,Italy,1982,0,2,2
+Italy,West Germany,1982,3,1,4
+West Germany,France,1982,3,3,6
+Poland,France,1982,3,2,5
+Northern Ireland,Spain,1986,1,2,3
+Algeria,Northern Ireland,1986,1,1,2
+Spain,Brazil,1986,0,1,1
+Soviet Union,Canada,1986,2,0,2
+Hungary,France,1986,0,3,3
+Hungary,Canada,1986,2,0,2
+France,Soviet Union,1986,1,1,2
+Soviet Union,Hungary,1986,6,0,6
+Canada,France,1986,0,1,1
+Iraq,Mexico,1986,0,1,1
+Paraguay,Belgium,1986,2,2,4
+Iraq,Belgium,1986,1,2,3
+Mexico,Paraguay,1986,1,1,2
+Paraguay,Iraq,1986,1,0,1
+Belgium,Mexico,1986,1,2,3
+Argentina,Bulgaria,1986,2,0,2
+South Korea,Italy,1986,2,3,5
+South Korea,Bulgaria,1986,1,1,2
+Italy,Argentina,1986,1,1,2
+Argentina,South Korea,1986,3,1,4
+Bulgaria,Italy,1986,1,1,2
+Brazil,France,1986,1,1,2
+Denmark,Spain,1986,1,5,6
+England,Paraguay,1986,3,0,3
+Morocco,West Germany,1986,0,1,1
+Italy,France,1986,0,2,2
+Argentina,Uruguay,1986,1,0,1
+Brazil,Poland,1986,4,0,4
+Soviet Union,Belgium,1986,3,4,7
+Mexico,Bulgaria,1986,2,0,2
+Brazil,Algeria,1986,1,0,1
+Northern Ireland,Brazil,1986,0,3,3
+Uruguay,West Germany,1986,1,1,2
+Argentina,Belgium,1986,2,0,2
+Argentina,West Germany,1986,3,2,5
+Belgium,France,1986,2,4,6
+Algeria,Spain,1986,0,3,3
+France,West Germany,1986,0,2,2
+Spain,Belgium,1986,1,1,2
+Argentina,England,1986,2,1,3
+West Germany,Mexico,1986,0,0,0
+England,Poland,1986,3,0,3
+Poland,Portugal,1986,1,0,1
+Portugal,Morocco,1986,1,3,4
+Portugal,England,1986,1,0,1
+Morocco,Poland,1986,0,0,0
+Scotland,Uruguay,1986,0,0,0
+Denmark,West Germany,1986,2,0,2
+Denmark,Uruguay,1986,6,1,7
+West Germany,Scotland,1986,2,1,3
+Scotland,Denmark,1986,0,1,1
+England,Morocco,1986,0,0,0
+Argentina,Yugoslavia,1990,0,0,0
+West Germany,Argentina,1990,1,0,1
+Italy,England,1990,2,1,3
+Uruguay,Spain,1990,0,0,0
+Czechoslovakia,West Germany,1990,0,1,1
+Republic of Ireland,Italy,1990,0,1,1
+England,Belgium,1990,1,0,1
+West Germany,England,1990,1,1,2
+Italy,Uruguay,1990,2,0,2
+Republic of Ireland,Romania,1990,0,0,0
+West Germany,Netherlands,1990,2,1,3
+Brazil,Argentina,1990,0,1,1
+Czechoslovakia,Costa Rica,1990,4,1,5
+Cameroon,Colombia,1990,2,1,3
+Argentina,Italy,1990,1,1,2
+Spain,Yugoslavia,1990,1,2,3
+Cameroon,England,1990,2,3,5
+Belgium,South Korea,1990,2,0,2
+England,Egypt,1990,1,0,1
+Argentina,Romania,1990,1,1,2
+Cameroon,Soviet Union,1990,0,4,4
+Brazil,Sweden,1990,2,1,3
+Costa Rica,Scotland,1990,1,0,1
+Brazil,Costa Rica,1990,1,0,1
+Republic of Ireland,Netherlands,1990,1,1,2
+Cameroon,Romania,1990,2,1,3
+Brazil,Scotland,1990,1,0,1
+United Arab Emirates,Colombia,1990,0,2,2
+West Germany,Yugoslavia,1990,4,1,5
+Yugoslavia,Colombia,1990,1,0,1
+West Germany,United Arab Emirates,1990,5,1,6
+West Germany,Colombia,1990,1,1,2
+Yugoslavia,United Arab Emirates,1990,4,1,5
+Sweden,Costa Rica,1990,1,2,3
+Argentina,Soviet Union,1990,2,0,2
+Sweden,Scotland,1990,1,2,3
+Argentina,Cameroon,1990,0,1,1
+Soviet Union,Romania,1990,0,2,2
+Republic of Ireland,Egypt,1990,0,0,0
+England,Netherlands,1990,0,0,0
+Netherlands,Egypt,1990,1,1,2
+England,Republic of Ireland,1990,1,1,2
+South Korea,Uruguay,1990,0,1,1
+Belgium,Spain,1990,1,2,3
+South Korea,Spain,1990,1,3,4
+Belgium,Uruguay,1990,3,1,4
+Italy,Austria,1990,1,0,1
+United States,Czechoslovakia,1990,1,5,6
+Italy,United States,1990,1,0,1
+Austria,Czechoslovakia,1990,0,1,1
+Italy,Czechoslovakia,1990,2,0,2
+Austria,United States,1990,2,1,3
+Sweden,Bulgaria,1994,4,0,4
+Sweden,Brazil,1994,0,1,1
+Bulgaria,Italy,1994,1,2,3
+Romania,Sweden,1994,2,2,4
+Bulgaria,Germany,1994,2,1,3
+Netherlands,Brazil,1994,2,3,5
+Italy,Spain,1994,2,1,3
+Brazil,United States,1994,1,0,1
+Nigeria,Italy,1994,1,2,3
+Brazil,Italy,1994,0,0,0
+Netherlands,Republic of Ireland,1994,2,0,2
+Romania,Argentina,1994,3,2,5
+Saudi Arabia,Sweden,1994,1,3,4
+Spain,Switzerland,1994,3,0,3
+Mexico,Bulgaria,1994,1,1,2
+Germany,Belgium,1994,3,2,5
+Netherlands,Saudi Arabia,1994,2,1,3
+Argentina,Greece,1994,4,0,4
+Nigeria,Bulgaria,1994,3,0,3
+Argentina,Nigeria,1994,2,1,3
+Bulgaria,Greece,1994,4,0,4
+Argentina,Bulgaria,1994,0,2,2
+Greece,Nigeria,1994,0,2,2
+Italy,Republic of Ireland,1994,0,1,1
+Germany,South Korea,1994,3,2,5
+Norway,Mexico,1994,1,0,1
+Mexico,Republic of Ireland,1994,2,1,3
+Italy,Mexico,1994,1,1,2
+Republic of Ireland,Norway,1994,0,0,0
+Belgium,Morocco,1994,1,0,1
+Saudi Arabia,Morocco,1994,2,1,3
+Belgium,Netherlands,1994,1,0,1
+Italy,Norway,1994,1,0,1
+Belgium,Saudi Arabia,1994,0,1,1
+Bolivia,Spain,1994,1,3,4
+Germany,Spain,1994,1,1,2
+United States,Switzerland,1994,1,1,2
+Colombia,Romania,1994,1,3,4
+Romania,Switzerland,1994,1,4,5
+United States,Colombia,1994,2,1,3
+Switzerland,Colombia,1994,0,2,2
+United States,Romania,1994,0,1,1
+Cameroon,Sweden,1994,2,2,4
+Brazil,Russia,1994,2,0,2
+Brazil,Cameroon,1994,3,0,3
+Sweden,Russia,1994,3,1,4
+Russia,Cameroon,1994,6,1,7
+Brazil,Sweden,1994,1,1,2
+Germany,Bolivia,1994,1,0,1
+Spain,South Korea,1994,2,2,4
+South Korea,Bolivia,1994,0,0,0
+Morocco,Netherlands,1994,1,2,3
+Brazil,Scotland,1998,2,1,3
+Spain,Nigeria,1998,2,3,5
+Morocco,Norway,1998,2,2,4
+Paraguay,Bulgaria,1998,0,0,0
+Scotland,Norway,1998,1,1,2
+Brazil,Norway,1998,1,2,3
+Germany,Iran,1998,2,0,2
+United States,FR Yugoslavia,1998,0,1,1
+United States,Iran,1998,1,2,3
+Germany,FR Yugoslavia,1998,2,2,4
+Germany,United States,1998,2,0,2
+FR Yugoslavia,Iran,1998,1,0,1
+Belgium,South Korea,1998,1,1,2
+England,Tunisia,1998,2,0,2
+South Africa,Saudi Arabia,1998,2,2,4
+Belgium,Mexico,1998,2,2,4
+Netherlands,Belgium,1998,0,0,0
+South Korea,Mexico,1998,1,3,4
+Spain,Bulgaria,1998,6,1,7
+Nigeria,Paraguay,1998,1,3,4
+Spain,Paraguay,1998,0,0,0
+Nigeria,Bulgaria,1998,1,0,1
+Netherlands,South Korea,1998,5,0,5
+Brazil,Morocco,1998,3,0,3
+Romania,Colombia,1998,1,0,1
+Romania,England,1998,2,1,3
+Scotland,Morocco,1998,0,3,3
+Italy,Chile,1998,2,2,4
+Cameroon,Austria,1998,1,1,2
+Chile,Austria,1998,1,1,2
+Italy,Cameroon,1998,3,0,3
+Italy,Austria,1998,2,1,3
+Chile,Cameroon,1998,1,1,2
+Colombia,Tunisia,1998,1,0,1
+Saudi Arabia,Denmark,1998,0,1,1
+South Africa,Denmark,1998,1,1,2
+France,Saudi Arabia,1998,4,0,4
+France,Denmark,1998,2,1,3
+Jamaica,Croatia,1998,1,3,4
+Argentina,Japan,1998,1,0,1
+Romania,Tunisia,1998,1,1,2
+Colombia,England,1998,0,2,2
+France,South Africa,1998,3,0,3
+Netherlands,Mexico,1998,2,2,4
+Argentina,Jamaica,1998,5,0,5
+Japan,Jamaica,1998,1,2,3
+Nigeria,Denmark,1998,1,4,5
+Germany,Mexico,1998,2,1,3
+Netherlands,FR Yugoslavia,1998,2,1,3
+Romania,Croatia,1998,0,1,1
+Argentina,England,1998,2,2,4
+Italy,France,1998,0,0,0
+Brazil,Denmark,1998,3,2,5
+Netherlands,Argentina,1998,2,1,3
+Germany,Croatia,1998,0,3,3
+Brazil,Netherlands,1998,1,1,2
+France,Croatia,1998,2,1,3
+Netherlands,Croatia,1998,1,2,3
+Brazil,France,1998,0,3,3
+Japan,Croatia,1998,0,1,1
+Argentina,Croatia,1998,1,0,1
+France,Paraguay,1998,1,0,1
+Brazil,Chile,1998,4,1,5
+Italy,Norway,1998,1,0,1
+South Korea,Poland,2002,2,0,2
+Brazil,Turkey,2002,2,1,3
+Slovenia,Paraguay,2002,1,3,4
+South Africa,Spain,2002,2,3,5
+South Africa,Slovenia,2002,1,0,1
+Turkey,China,2002,3,0,3
+Spain,Slovenia,2002,3,1,4
+Paraguay,South Africa,2002,2,2,4
+Senegal,Uruguay,2002,3,3,6
+Denmark,France,2002,2,0,2
+France,Uruguay,2002,0,0,0
+Denmark,Senegal,2002,1,1,2
+Germany,Paraguay,2002,1,0,1
+Denmark,England,2002,0,3,3
+Sweden,Senegal,2002,1,2,3
+Spain,Republic of Ireland,2002,1,1,2
+Mexico,United States,2002,0,2,2
+Brazil,Belgium,2002,2,0,2
+Japan,Turkey,2002,0,1,1
+South Korea,Italy,2002,2,1,3
+England,Brazil,2002,1,2,3
+Germany,United States,2002,1,0,1
+Spain,South Korea,2002,0,0,0
+Senegal,Turkey,2002,0,1,1
+Germany,South Korea,2002,1,0,1
+Uruguay,Denmark,2002,1,2,3
+Brazil,Turkey,2002,1,0,1
+South Korea,Turkey,2002,2,3,5
+Germany,Brazil,2002,0,2,2
+France,Senegal,2002,0,1,1
+China,Costa Rica,2002,0,2,2
+Brazil,China,2002,4,0,4
+Spain,Paraguay,2002,3,1,4
+Costa Rica,Brazil,2002,2,5,7
+United States,Portugal,2002,3,2,5
+South Korea,United States,2002,1,1,2
+Portugal,Poland,2002,4,0,4
+Portugal,South Korea,2002,0,1,1
+Poland,United States,2002,3,1,4
+Republic of Ireland,Cameroon,2002,1,1,2
+Germany,Saudi Arabia,2002,8,0,8
+Costa Rica,Turkey,2002,1,1,2
+Cameroon,Saudi Arabia,2002,1,0,1
+Cameroon,Germany,2002,0,2,2
+Saudi Arabia,Republic of Ireland,2002,0,3,3
+Argentina,Nigeria,2002,1,0,1
+England,Sweden,2002,1,1,2
+Sweden,Nigeria,2002,2,1,3
+Argentina,England,2002,0,1,1
+Germany,Republic of Ireland,2002,1,1,2
+Nigeria,England,2002,0,0,0
+Sweden,Argentina,2002,1,1,2
+Belgium,Russia,2002,3,2,5
+Tunisia,Japan,2002,0,2,2
+Japan,Russia,2002,1,0,1
+Russia,Tunisia,2002,2,0,2
+Japan,Belgium,2002,2,2,4
+Tunisia,Belgium,2002,1,1,2
+Mexico,Italy,2002,1,1,2
+Mexico,Ecuador,2002,2,1,3
+Italy,Croatia,2002,1,2,3
+Italy,Ecuador,2002,2,0,2
+Croatia,Mexico,2002,0,1,1
+Ecuador,Croatia,2002,1,0,1
+Italy,Ukraine,2006,3,0,3
+Germany,Portugal,2006,3,1,4
+Portugal,France,2006,0,1,1
+Germany,Italy,2006,0,2,2
+Brazil,France,2006,0,1,1
+England,Portugal,2006,0,0,0
+Germany,Argentina,2006,1,1,2
+Argentina,Mexico,2006,2,1,3
+Brazil,Ghana,2006,3,0,3
+Switzerland,Ukraine,2006,0,0,0
+Italy,Australia,2006,1,0,1
+Portugal,Netherlands,2006,1,0,1
+England,Ecuador,2006,1,0,1
+Germany,Sweden,2006,2,0,2
+Spain,France,2006,1,3,4
+Italy,France,2006,1,1,2
+Ukraine,Tunisia,2006,1,0,1
+Spain,Tunisia,2006,3,1,4
+Iran,Angola,2006,1,1,2
+United States,Czech Republic,2006,0,3,3
+Italy,Ghana,2006,2,0,2
+Czech Republic,Ghana,2006,0,2,2
+Italy,United States,2006,1,1,2
+Czech Republic,Italy,2006,0,2,2
+Australia,Japan,2006,3,1,4
+Brazil,Croatia,2006,1,0,1
+Japan,Croatia,2006,0,0,0
+Brazil,Australia,2006,2,0,2
+Japan,Brazil,2006,1,4,5
+Croatia,Australia,2006,2,2,4
+South Korea,Togo,2006,2,1,3
+France,Switzerland,2006,0,0,0
+France,South Korea,2006,1,1,2
+Togo,Switzerland,2006,0,2,2
+Togo,France,2006,0,2,2
+Switzerland,South Korea,2006,2,0,2
+Spain,Ukraine,2006,4,0,4
+Portugal,Mexico,2006,2,1,3
+Tunisia,Saudi Arabia,2006,2,2,4
+Portugal,Iran,2006,2,0,2
+Angola,Portugal,2006,0,1,1
+Germany,Costa Rica,2006,4,2,6
+Poland,Ecuador,2006,0,2,2
+Germany,Poland,2006,1,0,1
+Ecuador,Costa Rica,2006,3,0,3
+Ecuador,Germany,2006,0,3,3
+Costa Rica,Poland,2006,1,2,3
+England,Paraguay,2006,1,0,1
+Trinidad and Tobago,Sweden,2006,0,0,0
+England,Trinidad and Tobago,2006,2,0,2
+Sweden,Paraguay,2006,1,0,1
+Sweden,England,2006,2,2,4
+Paraguay,Trinidad and Tobago,2006,2,0,2
+Argentina,Ivory Coast,2006,2,1,3
+Serbia and Montenegro,Netherlands,2006,0,1,1
+Argentina,Serbia and Montenegro,2006,6,0,6
+Netherlands,Ivory Coast,2006,2,1,3
+Netherlands,Argentina,2006,0,0,0
+Ivory Coast,Serbia and Montenegro,2006,3,2,5
+Mexico,Iran,2006,3,1,4
+Mexico,Angola,2006,0,0,0
+Saudi Arabia,Ukraine,2006,0,4,4
+Ghana,United States,2006,2,1,3
+Saudi Arabia,Spain,2006,0,1,1
+Australia,Serbia,2010,2,1,3
+Ghana,Germany,2010,0,1,1
+Ghana,Australia,2010,1,1,2
+Germany,Serbia,2010,0,1,1
+Germany,Australia,2010,4,0,4
+Serbia,Ghana,2010,0,1,1
+United States,Algeria,2010,1,0,1
+Slovenia,England,2010,0,1,1
+England,Algeria,2010,0,0,0
+Netherlands,Denmark,2010,2,0,2
+South Africa,Uruguay,2010,0,3,3
+England,United States,2010,1,1,2
+Greece,Argentina,2010,0,2,2
+Nigeria,South Korea,2010,2,2,4
+Greece,Nigeria,2010,2,1,3
+Argentina,South Korea,2010,4,1,5
+Argentina,Nigeria,2010,1,0,1
+South Korea,Greece,2010,2,0,2
+France,South Africa,2010,1,2,3
+Mexico,Uruguay,2010,0,1,1
+Algeria,Slovenia,2010,0,1,1
+Slovenia,United States,2010,2,2,4
+Japan,Cameroon,2010,1,0,1
+Cameroon,Denmark,2010,1,2,3
+South Africa,Mexico,2010,1,1,2
+Uruguay,France,2010,0,0,0
+Spain,Honduras,2010,2,0,2
+Chile,Switzerland,2010,1,0,1
+Spain,Switzerland,2010,0,1,1
+Honduras,Chile,2010,0,1,1
+North Korea,Ivory Coast,2010,0,3,3
+Portugal,Brazil,2010,0,0,0
+Portugal,North Korea,2010,7,0,7
+Netherlands,Japan,2010,1,0,1
+Brazil,Ivory Coast,2010,3,1,4
+Ivory Coast,Portugal,2010,0,0,0
+Paraguay,New Zealand,2010,0,0,0
+Slovakia,Italy,2010,3,2,5
+Italy,New Zealand,2010,1,1,2
+Slovakia,Paraguay,2010,0,2,2
+New Zealand,Slovakia,2010,1,1,2
+Italy,Paraguay,2010,1,1,2
+Cameroon,Netherlands,2010,1,2,3
+Denmark,Japan,2010,1,3,4
+Brazil,North Korea,2010,2,1,3
+France,Mexico,2010,0,2,2
+Switzerland,Honduras,2010,0,0,0
+Germany,Spain,2010,0,1,1
+Netherlands,Spain,2010,0,1,1
+Uruguay,Germany,2010,2,3,5
+Uruguay,Netherlands,2010,2,3,5
+Paraguay,Spain,2010,0,1,1
+Argentina,Germany,2010,0,4,4
+Netherlands,Brazil,2010,2,1,3
+Spain,Portugal,2010,1,0,1
+Uruguay,Ghana,2010,1,1,2
+Brazil,Chile,2010,3,0,3
+Netherlands,Slovakia,2010,2,1,3
+Chile,Spain,2010,1,2,3
+Argentina,Mexico,2010,3,1,4
+Germany,England,2010,4,1,5
+United States,Ghana,2010,1,2,3
+Uruguay,South Korea,2010,2,1,3
+Paraguay,Japan,2010,0,0,0
+United States,Germany,2014,0,1,1
+Belgium,Russia,2014,1,0,1
+Russia,South Korea,2014,1,1,2
+Belgium,Algeria,2014,2,1,3
+Portugal,Ghana,2014,2,1,3
+United States,Portugal,2014,2,2,4
+Argentina,Switzerland,2014,1,0,1
+Ghana,United States,2014,1,2,3
+Germany,Portugal,2014,4,0,4
+Bosnia and Herzegovina,Iran,2014,3,1,4
+Nigeria,Argentina,2014,2,3,5
+Nigeria,Bosnia and Herzegovina,2014,1,0,1
+Germany,Argentina,2014,1,0,1
+Germany,Ghana,2014,2,2,4
+Brazil,Netherlands,2014,0,3,3
+Germany,Algeria,2014,2,1,3
+Brazil,Germany,2014,1,7,8
+Netherlands,Costa Rica,2014,0,0,0
+Argentina,Belgium,2014,1,0,1
+Brazil,Colombia,2014,2,1,3
+France,Germany,2014,0,1,1
+Belgium,United States,2014,2,1,3
+South Korea,Algeria,2014,2,4,6
+Argentina,Iran,2014,1,0,1
+France,Nigeria,2014,2,0,2
+Costa Rica,Greece,2014,1,1,2
+Netherlands,Mexico,2014,2,1,3
+Colombia,Uruguay,2014,2,0,2
+Brazil,Chile,2014,1,1,2
+Netherlands,Argentina,2014,0,0,0
+Iran,Nigeria,2014,0,0,0
+Italy,Uruguay,2014,0,1,1
+Ecuador,France,2014,0,0,0
+Brazil,Croatia,2014,3,1,4
+Mexico,Cameroon,2014,1,0,1
+Brazil,Mexico,2014,0,0,0
+Cameroon,Croatia,2014,0,4,4
+Cameroon,Brazil,2014,1,4,5
+Croatia,Mexico,2014,1,3,4
+Spain,Netherlands,2014,1,5,6
+Chile,Australia,2014,3,1,4
+Australia,Netherlands,2014,2,3,5
+Spain,Chile,2014,0,2,2
+Australia,Spain,2014,0,3,3
+Netherlands,Chile,2014,2,0,2
+Colombia,Greece,2014,3,0,3
+Ivory Coast,Japan,2014,2,1,3
+Colombia,Ivory Coast,2014,2,1,3
+Japan,Greece,2014,0,0,0
+Japan,Colombia,2014,1,4,5
+Greece,Ivory Coast,2014,2,1,3
+Uruguay,Costa Rica,2014,1,3,4
+England,Italy,2014,1,2,3
+Uruguay,England,2014,2,1,3
+Italy,Costa Rica,2014,0,1,1
+Algeria,Russia,2014,1,1,2
+Costa Rica,England,2014,0,0,0
+Switzerland,Ecuador,2014,2,1,3
+France,Honduras,2014,3,0,3
+Switzerland,France,2014,2,5,7
+Honduras,Ecuador,2014,1,2,3
+Honduras,Switzerland,2014,0,3,3
+Argentina,Bosnia and Herzegovina,2014,2,1,3
+South Korea,Belgium,2014,0,1,1
+Belgium,England,2018,2,0,2
+Russia,Saudi Arabia,2018,5,0,5
+Germany,Sweden,2018,2,1,3
+South Korea,Germany,2018,2,0,2
+Mexico,Sweden,2018,0,3,3
+Belgium,Panama,2018,3,0,3
+Tunisia,England,2018,1,2,3
+Belgium,Tunisia,2018,5,2,7
+England,Panama,2018,6,1,7
+England,Belgium,2018,0,1,1
+Panama,Tunisia,2018,1,2,3
+Colombia,Japan,2018,1,2,3
+Poland,Senegal,2018,1,2,3
+Japan,Senegal,2018,2,2,4
+Poland,Colombia,2018,0,3,3
+South Korea,Mexico,2018,1,2,3
+Japan,Poland,2018,0,1,1
+France,Argentina,2018,4,3,7
+Uruguay,Portugal,2018,2,1,3
+Spain,Russia,2018,1,1,2
+Croatia,Denmark,2018,1,1,2
+Brazil,Mexico,2018,2,0,2
+Belgium,Japan,2018,3,2,5
+Sweden,Switzerland,2018,1,0,1
+Colombia,England,2018,1,1,2
+Uruguay,France,2018,0,2,2
+Sweden,England,2018,0,2,2
+Russia,Croatia,2018,2,2,4
+France,Belgium,2018,1,0,1
+Croatia,England,2018,2,1,3
+Senegal,Colombia,2018,0,1,1
+France,Croatia,2018,4,2,6
+Sweden,South Korea,2018,1,0,1
+Switzerland,Costa Rica,2018,2,2,4
+Egypt,Uruguay,2018,0,1,1
+Russia,Egypt,2018,3,1,4
+Uruguay,Saudi Arabia,2018,1,0,1
+Uruguay,Russia,2018,3,0,3
+Saudi Arabia,Egypt,2018,2,1,3
+Morocco,Iran,2018,0,1,1
+Portugal,Spain,2018,3,3,6
+Portugal,Morocco,2018,1,0,1
+Iran,Spain,2018,0,1,1
+Iran,Portugal,2018,1,1,2
+Spain,Morocco,2018,2,2,4
+France,Australia,2018,2,1,3
+Peru,Denmark,2018,0,1,1
+Germany,Mexico,2018,0,1,1
+Denmark,Australia,2018,1,1,2
+Denmark,France,2018,0,0,0
+Australia,Peru,2018,0,2,2
+Argentina,Iceland,2018,1,1,2
+Croatia,Nigeria,2018,2,0,2
+Argentina,Croatia,2018,0,3,3
+Nigeria,Iceland,2018,2,0,2
+Nigeria,Argentina,2018,1,2,3
+Iceland,Croatia,2018,1,2,3
+Costa Rica,Serbia,2018,0,1,1
+Brazil,Switzerland,2018,1,1,2
+Brazil,Costa Rica,2018,2,0,2
+Serbia,Switzerland,2018,1,2,3
+Serbia,Brazil,2018,0,2,2
+France,Peru,2018,1,0,1
+Brazil,Belgium,2018,1,2,3
